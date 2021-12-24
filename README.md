@@ -61,7 +61,7 @@ If windows 10 or later using WSL ubuntu for run!
 * For Windows 8.1 or older
 Using Virutal Machine to run!
 * For other OS, arm
-clone this project by git clone and run or build from C++ (have many tips in youtube)
+clone this project by git clone and run or build from C++ IDE (have many tips in youtube)
 # What operating system are working?
 | Operating system  | CPU | Result | 
 | ------------- | ------------- | ------------- |
