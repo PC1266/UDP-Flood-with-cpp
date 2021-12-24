@@ -10,3 +10,6 @@ UDP Flood will sending MANY OF MANY emoji + unicode to target server!
 # Why created this project?
 This just a learn C++ level 2 for me and i gonna making new program from this!
 # How to install
+* For Linux (x64 only read more in ever testing model.)
+```
+```
