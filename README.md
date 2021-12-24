@@ -62,10 +62,10 @@ If windows 10 or later using WSL ubuntu for run!
 Using Virutal Machine to run!
 * For other OS, arm
 clone this project by github and run or build from C++ (have many tips in youtube)
-# What operating system are testing?
+# What operating system are working?
 | Operating system  | CPU | Result | 
 | ------------- | ------------- | ------------- |
 | Linux (Ubuntu)| Intel x64  | working |
 | Windows (WSL)  | -  | soon |
-| Android (termux) | arm64 | soon |
+| Android  | arm64 | soon |
 
