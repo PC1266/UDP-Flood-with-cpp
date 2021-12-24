@@ -64,7 +64,7 @@ Using Virutal Machine to run!
 clone this project by github and run or build from C++ (have many tips in youtube)
 # What operating system are testing?
 | operating system  | CPU | Result | 
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Linux (Ubuntu)| Intel x64  | working |
 | Windows (WSL)  | -  | soon |
 
