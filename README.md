@@ -68,5 +68,6 @@ clone this project by git clone and run or build from C++ IDE (have many tips in
 | Linux (Ubuntu)| Intel x64  | working |
 | Windows (WSL)  | -  | soon |
 | Android (termux) | arm64 | Exec format error |
+| Android (IDE) | arm64 | working |
 * Notice more list will show in soon!
 
