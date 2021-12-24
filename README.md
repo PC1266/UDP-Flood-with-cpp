@@ -43,3 +43,17 @@ UDP ATTACK BY C++ (First C++ project of PC1266)
 If something is error please contect in issues of github.
 IP Address: 
 ```
+* (linux) download from website without wget
+```
+chmod +x udpflood
+./udpflood
+```
+output
+```
+ pc1266  pc1266-dynabook-Satellite-L40-213Y-HD  ~  Desktop  Devloping  C++  $  chmod +x udpflood
+ pc1266  pc1266-dynabook-Satellite-L40-213Y-HD  ~  Desktop  Devloping  C++  $  ./udpflood
+UDP ATTACK BY C++ (First C++ project of PC1266)
+If something is error please contect in issues of github.
+IP Address: 
+```
+
