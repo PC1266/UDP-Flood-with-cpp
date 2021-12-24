@@ -11,7 +11,7 @@ UDP Flood will sending MANY OF MANY emoji + unicode to target server!
 This just a learn C++ level 2 for me and i gonna making new program from this!
 # How to install
 * For Linux (x64 only read more in ever testing model.)
-Please Download from release fist or follow this!
+Please Download from release first or follow this!
 * (linux) download with wget
 ```
 wget https://github.com/PC1266/UDP-Flood-with-cpp/releases/download/1.0/udpflood
@@ -56,4 +56,15 @@ UDP ATTACK BY C++ (First C++ project of PC1266)
 If something is error please contect in issues of github.
 IP Address: 
 ```
+* For Windows
+If windows 10 or later using WSL ubuntu for run!
+* For Windows 8.1 or older
+Using Virutal Machine to run!
+* For other OS, arm
+clone this project by github and run or build from C++ (have many tips in youtube)
+# Test model for all os
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
