@@ -12,7 +12,7 @@ This just a learn C++ level 2 for me and i gonna making new program from this!
 # How to install
 * For Linux (x64 only read more in ever testing model.)
 Please Download from release fist or follow this!
-* (linux download with wget)
+* (linux) download with wget
 ```
 wget https://github.com/PC1266/UDP-Flood-with-cpp/releases/download/1.0/udpflood
 chmod +x udpflood
