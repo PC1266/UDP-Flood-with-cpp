@@ -68,4 +68,5 @@ clone this project by github and run or build from C++ (have many tips in youtub
 | Linux (Ubuntu)| Intel x64  | working |
 | Windows (WSL)  | -  | soon |
 | Android  | arm64 | soon |
+* Notice more list will show in soon!
 
