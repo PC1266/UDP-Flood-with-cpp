@@ -62,9 +62,9 @@ If windows 10 or later using WSL ubuntu for run!
 Using Virutal Machine to run!
 * For other OS, arm
 clone this project by github and run or build from C++ (have many tips in youtube)
-# Test model for all os
-| First Header  | Second Header |
+# What operating system are testing?
+| operating system  | CPU | Result | 
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Linux (Ubuntu)| Intel x64  | working |
+| Windows (WSL)  | -  | soon |
 
